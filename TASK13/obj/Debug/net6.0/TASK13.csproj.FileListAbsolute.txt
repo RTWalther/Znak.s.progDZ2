@@ -1,0 +1,15 @@
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\obj\Debug\net6.0\TASK13.csproj.AssemblyReference.cache
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\obj\Debug\net6.0\TASK13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\obj\Debug\net6.0\TASK13.AssemblyInfoInputs.cache
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\obj\Debug\net6.0\TASK13.AssemblyInfo.cs
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\obj\Debug\net6.0\TASK13.csproj.CoreCompileInputs.cache
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\bin\Debug\net6.0\TASK13.exe
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\bin\Debug\net6.0\TASK13.deps.json
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\bin\Debug\net6.0\TASK13.runtimeconfig.json
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\bin\Debug\net6.0\TASK13.dll
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\bin\Debug\net6.0\TASK13.pdb
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\obj\Debug\net6.0\TASK13.dll
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\obj\Debug\net6.0\refint\TASK13.dll
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\obj\Debug\net6.0\TASK13.pdb
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\obj\Debug\net6.0\TASK13.genruntimeconfig.cache
+C:\Users\Hope\Desktop\GEEK BRAINS\2sem\TASK13\obj\Debug\net6.0\ref\TASK13.dll
