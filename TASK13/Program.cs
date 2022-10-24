@@ -12,13 +12,21 @@ int num = Convert.ToInt32(Console.ReadLine());
 
 int ThirdDigit(int number)
 {
- int firstDigit = (number / 100) * 100;
-    int thirdDigit = number % 10;
-    int secondDigit = ((number - firstDigit - thirdDigit) / 10);
-    //int thirdDigit = secondDigit % 10;
-    return secondDigit;
+ //int firstDigit = (number / 100) * 100;
+    //int secondDigit = number / 10 % 10;
+    int thirdDigit = number / 100 % 10;
+    return thirdDigit;
 }
 int thirdDigit = ThirdDigit(num);
+
+if (num <= 999)
+{
+   Console.WriteLine(ThirdDigit(num));
+}
+else
+{
+    Console.WriteLine((num % 10) ThirdDigit(num));
+}
 if (num <= 99)
 {
     Console.WriteLine($"третьей цифры нет.");

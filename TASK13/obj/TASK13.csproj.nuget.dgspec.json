@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\2sem\\TASK13\\TASK13.csproj": {}
+    "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\2DZ\\TASK13\\TASK13.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\2sem\\TASK13\\TASK13.csproj": {
+    "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\2DZ\\TASK13\\TASK13.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\2sem\\TASK13\\TASK13.csproj",
+        "projectUniqueName": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\2DZ\\TASK13\\TASK13.csproj",
         "projectName": "TASK13",
-        "projectPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\2sem\\TASK13\\TASK13.csproj",
+        "projectPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\2DZ\\TASK13\\TASK13.csproj",
         "packagesPath": "C:\\Users\\Hope\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\2sem\\TASK13\\obj\\",
+        "outputPath": "C:\\Users\\Hope\\Desktop\\GEEK BRAINS\\2DZ\\TASK13\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hope\\AppData\\Roaming\\NuGet\\NuGet.Config"
